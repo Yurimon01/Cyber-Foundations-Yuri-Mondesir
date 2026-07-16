@@ -1,6 +1,6 @@
 # Week 1 Notes — Onboarding
 
-## Key Concepts This Week
+## Key Concepts This Week ( This is for your week to week documentation. )
 
 - What cybersecurity is and why demand for these skills is growing
 - The CIA Triad — Confidentiality, Integrity, Availability
