@@ -1,21 +1,44 @@
 # Week 2 Reflection
 
----
+**Student Name:** Yuri Mondesir
+
+**Date Completed:** 7/29/2026
 
 ## Prompts
 
-1. What clicked for you this week?
-2. What's still confusing?
-3. How does this week's material connect to a cybersecurity career path you're interested in?
-4. One thing you'd tell a friend just starting this course
+**What clicked for you this week?**
+
+```
+What clicked for me this week was understanding the basic components of the Hardware layer.
+```
+
+**What's still confusing?**
+
+```
+Something I still find a little bit confusing what the concept of the OS and the Kernel.
+```
+
+**How does this week's material connect to a cybersecurity career path you're interested in?**
+
+```
+I am not yet sure what path I am interested in. So this information in general is super helpful to get more of a bigger picture.
+```
+
+**One thing you'd tell a friend just starting this course:**
+
+```
+I would tell a friend to stay on track; I fell ill last week and had to turn in the assignments late.
+```
 
 ---
 
 ## Professional Growth Check
 
-- [ ] I documented my reflection clearly and in my own words
-- [ ] I used structured formatting in my submission
-- [ ] My commit message was meaningful and descriptive
+- [x] I documented my reflection clearly and in my own words
+
+- [x] I used structured formatting in my submission
+
+- [x] My commit message was meaningful and descriptive
 
 ---
 
