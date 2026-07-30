@@ -201,7 +201,7 @@ The part that is similar in comparison is the fundamental properties found in th
 
 - [x] Connection explanation written (Part B, Step 8 — minimum 2 sentences)
 
-- [ ] All three Analysis Questions answered (minimum sentence counts met)
+- [x] All three Analysis Questions answered (minimum sentence counts met)
 
 - [x] This file is committed to your portfolio repo at `week-02/labs/lab-02-machine-exploration.md`
 
